@@ -1,5 +1,7 @@
 # create_autonomy
 
+**This branch is no longer active. Please check the default branch (*-devel) for latest development.**
+
 [ROS](http://ros.org) driver for iRobot's [Create 1 & 2](http://www.irobot.com/About-iRobot/STEM/Create-2.aspx).  
 This package wraps the C++ library [libcreate][libcreate], which uses iRobot's [Open Interface Specification][oi_spec].
 
